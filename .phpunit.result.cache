@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"TypstTest::testCompilesWorkingTypst":0.07,"TypstTest::testCompileFailsWithBadTypstFile":0.058,"TypstTest::testCompilesYamlSuccessFully":0.061,"TypstTest::testCompilesAndReturnsReturnsStringWhenSuccess":0.078}}
