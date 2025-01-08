@@ -1,6 +1,6 @@
 {
     "name": "zperkinson/typst",
-    "description": "A wrapper for Typst",
+    "description": "A simple wrapper for compiling Typst files",
     "type": "library",
     "require-dev": {
         "phpunit/phpunit": "^11.5"
